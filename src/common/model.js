@@ -1,4 +1,4 @@
-const EventEmitter = require("./index");
+const EventEmitter = require("./event");
 
 export class Model {
   constructor() {
